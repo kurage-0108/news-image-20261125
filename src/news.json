@@ -1,0 +1,283 @@
+{
+ "columns": [
+  {
+   "items": [
+    {
+     "headline": "US weighs strikes on Iran's leaders",
+     "place": "WASHINGTON",
+     "summary": "Trump officials debate targeting senior Iranian leaders to end the war; no final decision yet."
+    },
+    {
+     "headline": "Refinery claimed hit; Riyadh tower struck again",
+     "place": "SAUDI ARABIA",
+     "summary": "Saudi defences down four drones as the Houthis claim the Ras Tanura refinery; a second hit on Riyadh's tallest tower injures 11."
+    },
+    {
+     "headline": "Strike kills Hamas security chief",
+     "place": "GAZA CITY",
+     "summary": "An Israeli strike kills interior security chief Mohammad Abuelouf, his wife and two daughters, medics say."
+    },
+    {
+     "headline": "Storm bears down on the tents",
+     "place": "GAZA",
+     "summary": "Officials warn a coming storm could flood the tents of 1.76 million displaced Palestinians."
+    },
+    {
+     "headline": "RSF drones kill 19 civilians",
+     "place": "SUDAN",
+     "summary": "A Sudanese rights group says paramilitary drone strikes killed 19 civilians and wounded 20 in two cities."
+    },
+    {
+     "headline": "Nigeria holds rates at 23%",
+     "place": "ABUJA",
+     "summary": "The central bank keeps its benchmark rate at 23%, holding policy tight against inflation ahead of the January 2027 election."
+    }
+   ],
+   "section": "MIDDLE EAST & AFRICA"
+  },
+  {
+   "items": [
+    {
+     "headline": "Putin: Kyiv still hits our refineries",
+     "place": "MOSCOW",
+     "summary": "Putin says Ukraine keeps attacking Russian oil refineries despite President Trump's request to refrain."
+    },
+    {
+     "headline": "Leaked toll: 490,334 war dead",
+     "place": "RUSSIA",
+     "summary": "Leaked statistics analysed by the BBC put Russian military deaths since 2022 at least 490,334."
+    },
+    {
+     "headline": "Merz: we will show Moscow its limits",
+     "place": "BERLIN",
+     "summary": "The chancellor tells the Bundestag Europe will show Russia its limits, defending a sharp rise in defence spending."
+    },
+    {
+     "headline": "NDA curbs to free victims to speak",
+     "place": "LONDON",
+     "summary": "From January, strict limits on NDAs will give harassment victims complete freedom to speak, UK prime minister Andy Burnham vows."
+    },
+    {
+     "headline": "Pope laments COP31 failure",
+     "place": "VATICAN",
+     "summary": "Pope Leo XIV voices concern at the climate talks' failure, as extreme weather grows more frequent."
+    },
+    {
+     "headline": "UN: HIV gains may unravel",
+     "place": "GENEVA",
+     "summary": "Falling funding threatens to unravel decades of progress against HIV, the United Nations warns."
+    },
+    {
+     "headline": "Landmine toll hits five-year high",
+     "place": "GENEVA",
+     "summary": "Mines and war remnants killed or injured nearly 7,000 people in 2025 — the highest toll in five years."
+    }
+   ],
+   "section": "EUROPE"
+  },
+  {
+   "items": [
+    {
+     "headline": "Huawei guilty of fraud conspiracy",
+     "place": "NEW YORK",
+     "summary": "A US jury convicts Huawei of trade-secret conspiracy and bank fraud, but acquits it of racketeering."
+    },
+    {
+     "headline": "Unclassified CIA system breached",
+     "place": "LANGLEY",
+     "summary": "Hackers breach the CIA and ODNI's open-source analysis system, exposing unclassified material; classified networks were not touched."
+    },
+    {
+     "headline": "Hostages freed in supermarket siege",
+     "place": "CARTAGENA",
+     "summary": "Police storm a supermarket and free all hostages after gunmen seized it in a failed armoured-car raid."
+    },
+    {
+     "headline": "BepiColombo reaches Mercury orbit",
+     "place": "MERCURY",
+     "summary": "The Europe–Japan probe slips into orbit around Mercury despite a glitch on arrival."
+    },
+    {
+     "headline": "Most distant quasar yet found",
+     "place": "DEEP SPACE",
+     "summary": "Astronomers discover a quasar that formed just 630 million years after the Big Bang, the most distant ever seen."
+    },
+    {
+     "headline": "Stroke burden to double by 2050",
+     "place": "DALLAS",
+     "summary": "The Heart Association projects 20 million US adults living with stroke by 2050; costs near $423bn a year."
+    },
+    {
+     "headline": "A Spix's macaw chick named Hope",
+     "place": "SAO PAULO",
+     "summary": "Sao Paulo Zoo celebrates Hope, a Spix's macaw chick hatched after 28 days' incubation — a boost for a species extinct in the wild."
+    }
+   ],
+   "section": "AMERICAS & SCIENCE"
+  },
+  {
+   "items": [
+    {
+     "headline": "Solomons treaty bars foreign bases",
+     "place": "CANBERRA",
+     "summary": "Australia and Solomon Islands sign a treaty barring foreign bases in the islands."
+    },
+    {
+     "headline": "Rakuten Securities leak widens",
+     "place": "TOKYO",
+     "summary": "Client asset data also leaked; about 4.41 million personal records are confirmed exposed."
+    },
+    {
+     "headline": "BOJ core gauge rises 3.5%",
+     "place": "TOKYO",
+     "summary": "The Bank of Japan's core gauge rose 3.5% in October, the fastest since September 2023."
+    },
+    {
+     "headline": "US proposes 25% tariffs on India",
+     "place": "NEW DELHI",
+     "summary": "The US proposes 25% duties on India and six others; China faces 20% more."
+    },
+    {
+     "headline": "Russian jets trigger Seoul scramble",
+     "place": "SEOUL",
+     "summary": "Fighters scramble as Russian warplanes enter the air defence zone; Ulleung alerts sound."
+    },
+    {
+     "headline": "Beijing probes Shanghai party chief",
+     "place": "BEIJING",
+     "summary": "China opens a graft probe into Shanghai's party chief, widening a sweeping shake-up."
+    },
+    {
+     "headline": "Rescuers search flooded Java mine",
+     "place": "BOGOR",
+     "summary": "Rescuers search for 26 workers trapped in a flooded West Java mine; three bodies found."
+    },
+    {
+     "headline": "Australia tightens Big Tech rules",
+     "place": "SYDNEY",
+     "summary": "Platforms face fines of up to 5% of global revenue unless they stamp out harmful content."
+    }
+   ],
+   "section": "ASIA-PACIFIC & JAPAN"
+  }
+ ],
+ "date_line": "Wednesday, 25 November 2026",
+ "datelines": [
+  [
+   "Washington",
+   "07:00"
+  ],
+  [
+   "Cartagena",
+   "07:00"
+  ],
+  [
+   "London",
+   "12:00"
+  ],
+  [
+   "Abuja",
+   "13:00"
+  ],
+  [
+   "Berlin",
+   "13:00"
+  ],
+  [
+   "Kyiv",
+   "14:00"
+  ],
+  [
+   "Khartoum",
+   "14:00"
+  ],
+  [
+   "Gaza",
+   "14:00"
+  ],
+  [
+   "Riyadh",
+   "15:00"
+  ],
+  [
+   "Delhi",
+   "17:30"
+  ],
+  [
+   "Jakarta",
+   "19:00"
+  ],
+  [
+   "Beijing",
+   "20:00"
+  ],
+  [
+   "Tokyo",
+   "21:00"
+  ],
+  [
+   "Canberra",
+   "23:00"
+  ]
+ ],
+ "leads": [
+  {
+   "headline": "Two tankers strike mines in the Strait of Hormuz",
+   "kicker": "STRAIT OF HORMUZ",
+   "summary": "Iran's Revolutionary Guards say two oil tankers hit naval mines, exploded and caught fire on an unauthorised route through the strait — the chokepoint for a fifth of the world's oil, at the centre of the nine-month Iran war."
+  },
+  {
+   "headline": "Pakistan's first astronaut boards China's space station",
+   "kicker": "SPACE",
+   "summary": "Shenzhou-24 carries Zeeshan Ali to Tiangong — the first Pakistani in orbit and the first foreign astronaut to board China's station."
+  },
+  {
+   "headline": "Overnight strikes rake Kyiv, Odesa and Zaporizhzhia",
+   "kicker": "UKRAINE WAR",
+   "summary": "Russia and Ukraine report three dead and 15 wounded in overnight attacks, while Ukrainian drones strike oil refineries deep inside Russia's Samara region."
+  }
+ ],
+ "sources": "Compiled from reports published on Wednesday 25 November 2026 by AP, Reuters, BBC News, Just Security, SCMP, The Japan Times, The Economic Times, AfricaFrontPage, Yeni Safak, Anadolu and One Turn News.",
+ "sport": [
+  "CAS restores Senegal's AFCON title",
+  "Ronaldo scores his 987th career goal",
+  "Steelers bench Rodgers; Rudolph starts",
+  "FIFA names USA, Mexico, Costa Rica & Jamaica as 2031 Women's World Cup hosts",
+  "Sato agrees Cubs deal; Taira joins Toronto",
+  "India win U19 Asia Cup final by one wicket"
+ ],
+ "ticker": [
+  [
+   "Nikkei 225 -2.76%",
+   "down"
+  ],
+  [
+   "Nvidia -7%",
+   "down"
+  ],
+  [
+   "S&P 500 -0.5%",
+   "down"
+  ],
+  [
+   "Kospi -6.2%",
+   "down"
+  ],
+  [
+   "Taiwan -4.8%",
+   "down"
+  ],
+  [
+   "Sensex +1.8%",
+   "up"
+  ],
+  [
+   "Brent crude $87.49",
+   "flat"
+  ],
+  [
+   "Rupiah at record low",
+   "down"
+  ]
+ ]
+}
